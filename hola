@@ -1,0 +1,23 @@
+<div class="post-header">
+  <div>
+     <i class="fa-brands fa-html5"></i>
+         <span><strong>HTML5</strong></span>
+   <div> <span>Rigoberto</span></div>
+<div>
+    <i class="fa-solid fa-ellipsis-vertical"></i>
+</div>
+  </div>
+
+                           
+                        <div class="header">
+                                <div>
+                                <i class="fa-brands fa-instagram"></i>
+                                <span><strong> Aritz_Aranburu </strong></span>
+                                 <i class="fa-solid fa-certificate" style="color: #74C0FC;"></i>
+                               
+                                 <div id="location"><span> El Salvador</span></div>
+                                </div>
+                               <div>
+                                <i class="fa-solid fa-ellipsis-vertical"></i>
+                               </div>
+                            </div>
